@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Erik!
-- 👨🏻‍💻 I’m a Sr. Frontend Engineer that specializes in Leadership/Management, Marketing, and UI/UX Architecture (more details below)
-- 🤝 I’m looking to collaborate on Frontend UI, Marketing, Web3 Projects
+- 👨🏻‍💻 I’m a Staff Frontend Engineer that specializes in Leadership/Management, Marketing, and UI/UX Architecture (more details below)
 - 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/mraponte/)
 
 ## What am I working on?
@@ -25,51 +24,4 @@
   - Accessbility
   - User Flows
   - Component Design
-
-
-## Tech
-> This is a non-exhaustive list of some tech and skills that I've built along the way
-
-### Main Stack
-```
-- JavaScript
-- Nuxt/Vue
-- SCSS
-- Netlify
-- Contentful
-```
-
-### Misc. Tech
-```
-- Accessibility
-- Tailwind
-- GA/GTM
-- FullStory / HotJar
-- BEM / ATOMIC
-- Jira / Azure / Asana
-- Eloqua / Marketing Automation
-- Sitecore
-- 
-```
-
-### Design
-```
-- Figma
-- SketchApp
-```
-
-## Previous work
-### Major Sites
-- https://www.hiltongrandvacations.com/
-- https://melaleuca.com/
-- https://www.itron.com/na
-- https://horizondiscovery.com/
-
-### Marketing LP's for
-- Tyco/Johnson Controls
-- Vshred
-- Universities:
-  - Drake
-  - Loyola
-  - Xavier
 
